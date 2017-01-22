@@ -1,2 +1,6 @@
 ---
 # vars file for ansible-observium
+
+root_pw: "{{vault_root_pw}}"
+observium_pw: "{{vault_observium_pw}}"
+
